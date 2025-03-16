@@ -1,0 +1,17 @@
+{
+    "my_account": {
+        "name": "Pankaj Sakharkar",
+        "amount": 1000,
+        "account_number": "12345678",
+        "user_id": "admin",
+        "password": "admin"
+    },
+    "beneficiaries": [
+      
+        {
+            "beneficiary_name": "Kiran Bhagat",
+            "amount": 500,
+            "account_number": "456789"
+        }
+    ]
+}
